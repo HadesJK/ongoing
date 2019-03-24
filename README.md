@@ -14,3 +14,7 @@
 
 [variable-precision SWAR 算法](https://github.com/HadesJK/ongoing/blob/master/variable-precision%20SWAR/variable-precision%20SWAR%E7%AE%97%E6%B3%95.md)
 
+
+## 布隆过滤器(Bloom filter)
+
+[布隆过滤器](https://github.com/HadesJK/ongoing/blob/master/Bloom%20filter/%E5%B8%83%E9%9A%86%E8%BF%87%E6%BB%A4%E5%99%A8.md)
