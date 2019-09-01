@@ -19,4 +19,9 @@
 
 [布隆过滤器](https://github.com/HadesJK/ongoing/blob/master/Bloom%20filter/%E5%B8%83%E9%9A%86%E8%BF%87%E6%BB%A4%E5%99%A8.md)
 
+## 乐观锁
+[乐观锁](https://github.com/HadesJK/ongoing/blob/master/%E4%B9%90%E8%A7%82%E9%94%81/%E4%B9%90%E8%A7%82%E9%94%81.md)
+
 2019.04.14 这段时间将学习一下《深入理解计算机系统》，文章不一定及时更新
+
+
